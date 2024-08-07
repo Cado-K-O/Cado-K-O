@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Çağdaş Altınışık</h1>
-- 🌱 I’m currently learning **Html5 , Css3, Javascript , React , React Native, NodeJs**
 
-- 💬 Ask me about **Html5 , Css3 and Javascript**
+- 🌱 I’m currently learning Html5 , Css3, Javascript , React , React Native, NodeJs
 
-- 📫 How to reach me **cagdasaltin2347@gmail.com**
+- 💬 Ask me about Html5 , Css3 and Javascript
+
+- 📫 How to reach me cagdasaltin2347@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
